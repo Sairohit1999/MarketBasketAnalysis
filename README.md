@@ -1,2 +1,2 @@
 # MarketBasketAnalysis
-Unveiling Consumer Insights: Market Basket Analysis in E-Commerce through Machine Learning Algorithms
+This project delves into the realm of e-commerce, emphasizing the importance of effective marketing and an improved shopping experience in a highly competitive landscape. It focuses on an online retail platform grappling with a saturated market, employing association rule mining to unveil hidden customer purchasing behaviors. The study's objective is to uncover patterns in product co-purchases, providing actionable insights for cross-selling, precise product placements, and personalized recommendations. Ultimately, the aim is to enhance both sales performance and customer satisfaction in the dynamic world of e-commerce.
